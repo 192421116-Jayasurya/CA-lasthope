@@ -1,0 +1,6 @@
+MOU AX, 50
+MOU BX, 10
+DIU BX
+MOU CX, AX
+HLT
+
